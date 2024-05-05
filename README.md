@@ -1,7 +1,7 @@
 # mgt4250spring2024final
-This repository is for the class project of MGT 4250 at Elon University.
-
 Author(s): Tyler Vining (tvining@elon.edu)
+
+This repository is for the class project of MGT 4250 at Elon University.
 
 ## Project Description
 ### Questions of Interest 
