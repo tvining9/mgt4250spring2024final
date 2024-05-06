@@ -53,13 +53,13 @@ Moreover, the societal and economic benefits of equitable compensation practices
 Through this lens, the comprehensive analysis of salary factors not only addresses immediate concerns of fairness and legal compliance but also aligns with wider objectives of promoting gender equality, economic stability, and social justice, reflecting a deep understanding of the interconnectedness of organizational practices and societal well-being.
 
 ### References
-AG, C. S. (2016, September). Credit Suisse Research Institute Releases the CS Gender 3000: The Reward for Change Report Analyzing the impact of Female Representation in Boardrooms and Senior Management. https://www.prnewswire.com/news-releases/credit-suisse-research-institute-releases-the-cs-gender-3000-the-reward-for-change-report-analyzing-the-impact-of-female-representation-in-boardrooms-and-senior-management-300332558.html
-Bamberger, P., & Belogolovsky, E. (2010). The impact of pay secrecy on individual task performance. Personnel Psychology, 63(4), 965–996. https://doi.org/10.1111/j.1744-6570.2010.01194.x
-Blau, F. D., & Kahn, L. M. (2017). The Gender Wage Gap: Extent, Trends, and Explanations. Journal of Economic Literature, 55(3), 789–865. https://doi.org/10.1257/jel.20160995
-Equal Pay Act of 1963. (n.d.). US EEOC. Retrieved April 3, 2024, from https://www.eeoc.gov/history/equal-pay-act-1963
-Fluchtmann, J., Keese, M., & Adema, W. (2024). Gender equality and economic growth: Past progress and future potential (OECD Social, Employment and Migration Working Papers 304; OECD Social, Employment and Migration Working Papers, Vol. 304). https://doi.org/10.1787/fb0a0a93-en
-Protections Against Discrimination and Other Prohibited Practices. (2013, July 16). Federal Trade Commission. https://www.ftc.gov/policy-notices/no-fear-act/protections-against-discrimination
-Rainey, H. G. (2009). Understanding and Managing Public Organizations, Fourth Edition (4th ed.). Jossey- Bass.
+1. AG, C. S. (2016, September). Credit Suisse Research Institute Releases the CS Gender 3000: The Reward for Change Report Analyzing the impact of Female Representation in Boardrooms and Senior Management. https://www.prnewswire.com/news-releases/credit-suisse-research-institute-releases-the-cs-gender-3000-the-reward-for-change-report-analyzing-the-impact-of-female-representation-in-boardrooms-and-senior-management-300332558.html
+2. Bamberger, P., & Belogolovsky, E. (2010). The impact of pay secrecy on individual task performance. Personnel Psychology, 63(4), 965–996. https://doi.org/10.1111/j.1744-6570.2010.01194.x
+3. Blau, F. D., & Kahn, L. M. (2017). The Gender Wage Gap: Extent, Trends, and Explanations. Journal of Economic Literature, 55(3), 789–865. https://doi.org/10.1257/jel.20160995
+4. Equal Pay Act of 1963. (n.d.). US EEOC. Retrieved April 3, 2024, from https://www.eeoc.gov/history/equal-pay-act-1963
+5. Fluchtmann, J., Keese, M., & Adema, W. (2024). Gender equality and economic growth: Past progress and future potential (OECD Social, Employment and Migration Working Papers 304; OECD Social, Employment and Migration Working Papers, Vol. 304). https://doi.org/10.1787/fb0a0a93-en
+6. Protections Against Discrimination and Other Prohibited Practices. (2013, July 16). Federal Trade Commission. https://www.ftc.gov/policy-notices/no-fear-act/protections-against-discrimination
+7. Rainey, H. G. (2009). Understanding and Managing Public Organizations, Fourth Edition (4th ed.). Jossey- Bass.
 
 
 [Streamlit Application](https://mgt4250spring2024-class22practice.streamlit.app/)
