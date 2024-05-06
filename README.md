@@ -6,7 +6,7 @@ This repository is for the class project of MGT 4250 at Elon University.
 
 In light of the compelling evidence supporting the critical need for equitable compensation practices, this project embarks on a detailed examination of the underlying factors influencing employee salaries. By leveraging a comprehensive, public dataset from Kaggle (Employee_Salaries.csv) and applying a multifaceted analytical approach, the aim is to unravel the complexities of salary disparities within the county of Montgomery, MD. This endeavor not only seeks to address the immediate concerns highlighted by prior research but also to pave the way for actionable insights that can drive organizational and societal change toward fairness and transparency in compensation. 
 ### Questions of Interest 
-- Q1: Are there any signs of a gender pay gap within specific job categories?
+- Q1: Are there any signs of a gender pay gap within specific departments?
 - Q2: How does pay vary and do some departments or job grades have wider salary ranges than others?
 - Q3: How much do employees rely on overtime across different departments or genders and how does this affect their total earnings?
 ### Importance Statement 
