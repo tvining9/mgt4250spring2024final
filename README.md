@@ -33,10 +33,18 @@ Capturing a detailed snapshot of the workforce’s gender distribution (58% Male
  
 ## Interpreting Visualizations
 ### 1. Gender Pay Gap Bar Charts
-Put visualization here interpretation. 
-### 2. Departmental Salary Box Plots and Grade-Level Salary Scatter Plots
+As previously discussed, Figure 1a aims to highlight any disparities in base pay that could exist even within the same roles or levels, while Figure 1b takes this analysis one step further by accounting for the effects of overtime pay on wage disparities. Before conducting the analysis, departments with only females or males—specifically BOA, IGR, ORE, and ZAH—were removed, leaving 38 out of the total 42 departments available for gender comparison.
+
+Of these 38 departments analyzed in Figure 1a, women were found to be paid more in 14 departments, representing approximately 36.84% of the sample. However, when examining Figure 1b, which integrates overtime pay into the analysis, only 9 out of the 38 departments—approximately 23.68% of the sample—showed women being paid more. This significant decrease from 36.84% to 23.68% suggests that overtime pay significantly favors men, leading to an increase in their overall average earnings compared to women.
+
+To illustrate this point further, let's consider specific department abbreviations where this trend is notable. Departments such as CEC, COR, DGS, DOT, and FRS are prime examples where overtime pay appears to disproportionately benefit men, resulting in higher overall average earnings for male employees compared to their female counterparts.
+
+These findings underscore the need for targeted interventions to address gender-based pay disparities, particularly in the context of overtime pay distribution. Organizations should consider conducting thorough audits of their compensation practices, implementing transparent salary structures, providing training to mitigate biases in decision-making processes, and promoting gender diversity in leadership positions. Additionally, ongoing monitoring and evaluation are crucial to ensure that these measures effectively promote gender equity in compensation.
+
+### 2. Departmental and Grade-Level Salary Box Plots
 Put visualization here interpretation.
-### 3. Overtime Impact Scatter Plots
+
+### 3. Overtime Impact Scatter Plot
 Put visualization here interpretation.
 
 ![image](https://github.com/tvining9/mgt4250spring2024/assets/168783531/a269a28f-b773-4819-974b-416e3978813d)
