@@ -74,7 +74,7 @@ Moreover, the societal and economic benefits of equitable compensation practices
 
 Through this lens, the comprehensive analysis of salary factors not only addresses immediate concerns of fairness and legal compliance but also aligns with wider objectives of promoting gender equality, economic stability, and social justice, reflecting a deep understanding of the interconnectedness of organizational practices and societal well-being.
 
-### ChatGPT Insights 
+### AI and Article Insights 
 When prompted the three questions analyzed in this project, ChatGPT 4 provided the following insightful output: 
 - "Q1: Analysis of salary data reveals disparities between genders within departments, with women often earning less than men in comparable roles.
 - Q2: A review of salary structures across departments and job grades demonstrates varying pay scales, with some departments or higher job grades showing wider salary ranges compared to others. For example, roles with variable performance-based incentives or commission structures often feature wider salary ranges to accommodate fluctuations in earnings based on individual performance levels.
