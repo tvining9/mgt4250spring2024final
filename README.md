@@ -5,6 +5,9 @@ Author(s): Tyler Vining (tvining@elon.edu)
 This repository is for the class project of MGT 4250 at Elon University.
 
 In light of the compelling evidence supporting the critical need for equitable compensation practices, this project embarks on a detailed examination of the underlying factors influencing employee salaries. By leveraging a comprehensive, public dataset from Kaggle (Employee_Salaries.csv) and applying a multifaceted analytical approach, the aim is to unravel the complexities of salary disparities within the county of Montgomery, MD. This endeavor not only seeks to address the immediate concerns highlighted by prior research but also to pave the way for actionable insights that can drive organizational and societal change toward fairness and transparency in compensation. 
+
+To facilitate a deeper exploration of these findings, an interactive dashboard was created using Tableau. This dashboard features five visualizations, two of which include menu filters for customized user input, enabling a more tailored analysis of the data. You can access the dashboard through this link: [Visualization App].
+
 ### Questions of Interest 
 - Q1: Are there any signs of a gender pay gap within specific departments?
 - Q2: How does pay vary and do some departments or job grades have wider salary ranges than others?
@@ -48,7 +51,7 @@ The visualizations, Figure 2a and Figure 2b, aim to provide insights into salary
 
 Figure 2a utilizes a box plot at the departmental level to display the distribution of salaries. Notable observations include the lowest paying department, OAG, with a base salary of $11,147 for males and the highest paying department, CEX, with a male employee earning $292,000 and a female employee earning $22,526. CEX exhibits the largest pay variance among departments, followed by CAT, HHS, and OMB, indicating significant salary ranges.
 
-An important aspect of Figure 2a is the anomaly detection and distribution analysis. Out of 29 potential anomalies requiring further review, only 10 are female, representing 34.48% of the anomalies. This disparity highlights the need for deeper examination of gender-related pay discrepancies.
+An important aspect of Figure 2a is the anomaly detection and distribution analysis. Out of 30 potential anomalies requiring further review, only 10 are female, representing 33.33% of the anomalies. This disparity highlights the need for deeper examination of gender-related pay discrepancies.
 
 Further insights from Figure 2a reveal that 9 out of 21 employees below $40,000 base salary are female. Additionally, approximately 44% of employees below the average salary line are female, compared to 38% above the average line. Moreover, only about 35% of employees earning above $200,000 are female, with no females earning above $240,000. These findings underscore potential gender-related disparities in salary distribution.
 
