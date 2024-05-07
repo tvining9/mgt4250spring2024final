@@ -91,6 +91,8 @@ The visualizations in my study, particularly Figures 1a, 1b, and 3, corroborate 
 6. Protections Against Discrimination and Other Prohibited Practices. (2013, July 16). Federal Trade Commission. https://www.ftc.gov/policy-notices/no-fear-act/protections-against-discrimination
 7. Rainey, H. G. (2009). Understanding and Managing Public Organizations, Fourth Edition (4th ed.). Jossey- Bass.
 
+
+
 ![image](https://github.com/tvining9/mgt4250spring2024/assets/168783531/6e5e64ed-101f-437e-b303-23c80a0aadf9)
 
 [Elon University](https://www.elon.edu/)
