@@ -33,6 +33,8 @@ Capturing a detailed snapshot of the workforce’s gender distribution (58% Male
  
 ## Interpreting Visualizations
 ### 1. Gender Pay Gap Bar Charts
+![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/0fab54cc-1f14-453d-8d6b-4301d472e010)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/8696b0dc-e342-4b04-9d90-e063808cec45)
+
 As aforementioned, Figure 1a aims to highlight any disparities in base pay that could exist even within the same roles or levels, while Figure 1b takes this analysis one step further by accounting for the effects of overtime pay on wage disparities. Before conducting the analysis, departments with only females or males—specifically BOA, IGR, ORE, and ZAH—were removed, leaving 38 out of the total 42 departments available for gender comparison.
 
 Of these 38 departments analyzed in Figure 1a, women were found to have a higher average base salary in only 14 departments, representing 36.84% of the department sample. By integrating average overtime pay into the salary analysis, Figure 1b further illustrates gender wage disparities. That is, accounting for overtime pay exacerbated the disparity already discovered, resulting in only 9 out of the 38 departments—23.68% of the sample—showing women being paid more. This significant decrease from 36.84% to 23.68% suggests that overtime pay significantly favors men, leading to an increase in their overall average earnings compared to women.
@@ -54,8 +56,6 @@ Figure 2b sheds light on salary determinants at the grade level, showing that sa
 
 ### 3. Overtime Impact Scatter Plot
 Figure 3 showcases a scatter plot juxtaposing base salary against overtime pay, focusing on five specific departments: COR, FRS, DOT, POL, and SHF. These departments were chosen because, among all 38 departments available for gender pay-gap analysis, they demonstrate the highest reliance on overtime pay. This selection highlights the significant disparity between men and women in their reliance on overtime pay, a finding consistent with the notable observation emphasized in Figure 1b: overtime pay disproportionately benefits males over females. That is, despite males and females earning similar average annual base salaries across highlighted departments such as COR, FRS, DOT, POL, and SHF, males receive considerably more in average overtime pay than females. This disparity highlights a gender-based pay gap, evident not only in base salary but also in overtime pay.
-
-![image](https://github.com/tvining9/mgt4250spring2024/assets/168783531/a269a28f-b773-4819-974b-416e3978813d)
 
 ## Discussion & Summary
 The examination of salary disparities, particularly the gender pay gap, is substantiated by extensive research demonstrating that wage differences persist across genders within similar roles, grades, and departments, a finding highlighted by Blau and Kahn in their 2017 study published in the *Journal of Economic Literature*. This issue not only poses ethical concerns but also has broader implications for economic equality, like the impact of gender equality on economic growth (Fluchtmann et al., 2024). Furthermore, the importance of understanding compensation variance across departments and grades is reinforced by principles of public administration that advocate for equitable and transparent compensation systems to maintain fairness and reduce turnover, a perspective championed by Rainey in his 2009 work, *Understanding and Managing Public Organizations*.
