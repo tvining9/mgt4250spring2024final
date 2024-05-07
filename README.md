@@ -33,7 +33,7 @@ Capturing a detailed snapshot of the workforce’s gender distribution (58% Male
  
 ## Interpreting Visualizations
 ### 1. Gender Pay Gap Bar Charts
-![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/0fab54cc-1f14-453d-8d6b-4301d472e010)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/f722388f-25f0-4a15-a8d0-ab1c1e08e0d4)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/8696b0dc-e342-4b04-9d90-e063808cec45)
+![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/0fab54cc-1f14-453d-8d6b-4301d472e010)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/8696b0dc-e342-4b04-9d90-e063808cec45)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/f722388f-25f0-4a15-a8d0-ab1c1e08e0d4)
 
 As aforementioned, Figure 1a aims to highlight any disparities in base pay that could exist even within the same roles or levels, while Figure 1b takes this analysis one step further by accounting for the effects of overtime pay on wage disparities. Before conducting the analysis, departments with only females or males—specifically BOA, IGR, ORE, and ZAH—were removed, leaving 38 out of the total 42 departments available for gender comparison.
 
