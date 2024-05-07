@@ -56,6 +56,7 @@ Further insights from Figure 2a reveal that 9 out of 21 employees below $40,000 
 
 Figure 2b sheds light on salary determinants at the grade level, showing that salary tends to be influenced by grade. That is, salary and grade level positively correlate, and as such, the higher in the company the more money one makes. However, disparities exist due to large salary ranges among certain grade levels, particularly executive grades (e.g., EX1, EX3), manager grades (e.g., M2, MD3), and those without a designated grade. The large range of employees without a designated grade is most likely due to the inability to access relative experience, skills, or credentials (hence no grade level assigned). Another explanation of the variance could be due to a lack of payment structure for "un-graded" employees, thus resulting in other factors like bias playing large roles in forming compensation structures for those without a designated grade. Other possible contributing factors to these disparities may include the ability of upper management to influence the wages they or others receive, or the potentially large disparity between relative experience and credentials among upper management (thus reflected in their pay).   
 ![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/5dee47bd-83e5-4540-992f-0502d65a697e)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/8696b0dc-e342-4b04-9d90-e063808cec45)
+
 ![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/e6e216c6-be45-47b8-a864-206382154936)
 
 
