@@ -32,7 +32,7 @@ Capturing a detailed snapshot of the workforce’s gender distribution (58% Male
 - *Grade* (string): Grade level within the organization, indicating the job level or classification.
  
 ## Interpreting Visualizations
-### 1. Gender Pay Gap Bar Charts
+# Gender Pay Gap Bar Charts
 As aforementioned, Figure 1a aims to highlight any disparities in base pay that could exist even within the same roles or levels, while Figure 1b takes this analysis one step further by accounting for the effects of overtime pay on wage disparities. Before conducting the analysis, departments with only females or males—specifically BOA, IGR, ORE, and ZAH—were removed, leaving 38 out of the total 42 departments available for gender comparison.
 
 Of these 38 departments analyzed in Figure 1a, women were found to have a higher average base salary in only 14 departments, representing 36.84% of the department sample. By integrating average overtime pay into the salary analysis, Figure 1b further illustrates gender wage disparities. That is, accounting for overtime pay exacerbated the disparity already discovered, resulting in only 9 out of the 38 departments—23.68% of the sample—showing women being paid more. This significant decrease from 36.84% to 23.68% suggests that overtime pay significantly favors men, leading to an increase in their overall average earnings compared to women.
