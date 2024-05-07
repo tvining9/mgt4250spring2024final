@@ -41,7 +41,7 @@ To illustrate this point further, consider specific department abbreviations whe
 
 These findings underscore the need for targeted interventions to address gender-based pay disparities, particularly in the context of overtime pay distribution. Organizations should consider conducting thorough audits of their compensation practices, implementing transparent salary structures, providing training to mitigate biases in decision-making processes, and promoting gender diversity in leadership positions. Additionally, ongoing monitoring and evaluation are crucial to ensure that these measures effectively promote gender equity in compensation.
 
-![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/0fab54cc-1f14-453d-8d6b-4301d472e010)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/8696b0dc-e342-4b04-9d90-e063808cec45)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/f722388f-25f0-4a15-a8d0-ab1c1e08e0d4)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/8696b0dc-e342-4b04-9d90-e063808cec45)
+![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/fdbad73e-f5c3-4c18-91f7-d7a1429e4e59)
 
 ### 2. Departmental and Grade-Level Salary Box and Scatter Plots
 The visualizations, Figure 2a and Figure 2b, aim to provide insights into salary distribution across departments and grade levels, aiding in understanding compensation structures and variances within the employment system.
@@ -52,19 +52,16 @@ An important aspect of Figure 2a is the anomaly detection and distribution analy
 
 Further insights from Figure 2a reveal that 9 out of 21 employees below $40,000 base salary are female. Additionally, approximately 44% of employees below the average salary line are female, compared to 38% above the average line. Moreover, only about 35% of employees earning above $200,000 are female, with no females earning above $240,000. These findings underscore potential gender-related disparities in salary distribution.
 
-![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/bb73e3db-f460-46c0-b20c-1b067c1908ce)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/3a0d5298-1037-40d9-80dc-a5a128732ccf)
+![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/8fd046d9-a549-48cd-960b-9174dcc2cd31)
 
 Figure 2b sheds light on salary determinants at the grade level, showing that salary tends to be influenced by grade. That is, salary and grade level positively correlate, and as such, the higher in the company the more money one makes. However, disparities exist due to large salary ranges among certain grade levels, particularly executive grades (e.g., EX1, EX3), manager grades (e.g., M2, MD3), and those without a designated grade. The large range of employees without a designated grade is most likely due to the inability to access relative experience, skills, or credentials (hence no grade level assigned). Another explanation of the variance could be due to a lack of payment structure for "un-graded" employees, thus resulting in other factors like bias playing large roles in forming compensation structures for those without a designated grade. Other possible contributing factors to these disparities may include the ability of upper management to influence the wages they or others receive, or the potentially large disparity between relative experience and credentials among upper management (thus reflected in their pay).   
-![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/5dee47bd-83e5-4540-992f-0502d65a697e)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/8696b0dc-e342-4b04-9d90-e063808cec45)
 
 ![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/e6e216c6-be45-47b8-a864-206382154936)
 
 
 ### 3. Overtime Impact Scatter Plots
 Figure 3 showcases a scatter plot juxtaposing base salary against overtime pay, focusing on five specific departments: COR, FRS, DOT, POL, and SHF. These departments were chosen because, among all 38 departments available for gender pay-gap analysis, they demonstrate the highest reliance on overtime pay. This selection highlights the significant disparity between men and women in their reliance on overtime pay, a finding consistent with the notable observation emphasized in Figure 1b: overtime pay disproportionately benefits males over females. That is, despite males and females earning similar average annual base salaries across highlighted departments such as COR, FRS, DOT, POL, and SHF, males receive considerably more in average overtime pay than females. This disparity highlights a gender-based pay gap, evident not only in base salary but also in overtime pay.
-![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/f69f3e34-6f5f-4dce-8119-5e23f7a1ee90)![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/8696b0dc-e342-4b04-9d90-e063808cec45)
-![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/56da7189-a20f-4fa7-aaeb-543b7e557a07)
-
+![image](https://github.com/tvining9/mgt4250spring2024final/assets/168783531/f9726992-0d52-4a07-9aa8-03ef0315cd43)
 
 ## Discussion & Summary
 The examination of salary disparities, particularly the gender pay gap, is substantiated by extensive research demonstrating that wage differences persist across genders within similar roles, grades, and departments, a finding highlighted by Blau and Kahn in their 2017 study published in the *Journal of Economic Literature*. This issue not only poses ethical concerns but also has broader implications for economic equality, like the impact of gender equality on economic growth (Fluchtmann et al., 2024). Furthermore, the importance of understanding compensation variance across departments and grades is reinforced by principles of public administration that advocate for equitable and transparent compensation systems to maintain fairness and reduce turnover, a perspective championed by Rainey in his 2009 work, *Understanding and Managing Public Organizations*.
